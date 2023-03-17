@@ -13,7 +13,7 @@ This is a desktop application for Revolt built on Electron.
 
 ### Revolt Desktop
 
--   [Revolt Desktop Issue Board](https://github.com/revoltchat/desktop/issues)
+-   [Revolt Desktop Issue Board](https://github.com/QuickSales/desktop/issues)
 
 ### Revolt
 
@@ -26,7 +26,7 @@ This is a desktop application for Revolt built on Electron.
 Get Revolt Desktop up and running locally.
 
 ```
-git clone https://github.com/revoltchat/desktop
+git clone https://github.com/QuickSales/desktop
 cd desktop
 yarn
 yarn build:bundle
